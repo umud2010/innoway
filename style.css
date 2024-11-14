@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+}
+.header{
+    background-color: #183f6b;
+}
+.nav{
+    max-width: 100%;
+}
+.nav-logo{
+    width: 20%;
+}
+.logo{
+    width: 20%;
+}
+.apply-button{
+    border-radius:50%;
+}
